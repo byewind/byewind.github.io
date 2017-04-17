@@ -1,0 +1,39 @@
+body
+{
+    margin: 0;
+}
+
+#text
+{
+    position: absolute;
+    left: 0%;
+    width: 100%;
+    top: 30%;
+    height: 8.596%;
+    background: none;
+    border: none;
+    font-size: 24px;
+    text-align: center;
+    font-family: HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+#text2
+{
+    position: absolute;
+    left: 0%;
+    width: 100%;
+    top: 35%;
+    height: 5.731%;
+    background: none;
+    border: none;
+    font-size: 14px;
+    text-align: center;
+    font-family: HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(146, 146, 146);
+}
+#frame
+{
+    margin: 0;
+    width: 1000px;
+    height: 350px;
+}
